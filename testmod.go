@@ -2,6 +2,6 @@ package testmod
 
 import "fmt"
 
-func PrintGreeting (s string) string {
-  return fmt.Sprintf("Hi, %s", s)
+func PrintGreeting (s2 string) string {
+  return fmt.Sprintf("Hi, %s", s2)
 }
